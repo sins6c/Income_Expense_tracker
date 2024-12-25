@@ -1,6 +1,6 @@
 import './App.css';
 import 'antd/dist/antd.min.css';
-// import { Button } from 'antd';
+import { Button } from 'antd';
 import {BrowserRouter, Routes, Route, Navigate} from 'react-router-dom'
 import Home from './pages/Home';
 import Test from './pages/Test';
