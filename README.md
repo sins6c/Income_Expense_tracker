@@ -3,40 +3,40 @@ A comprehensive MERN Stack application for tracking personal finances, featuring
 ## ✨ Key Features
 📊 Financial Management
 
-Track income and expenses
-Custom date picker for transactions
-Advanced filtering options
-Progress bar visualizations
-Custom pagination
+- Track income and expenses
+- Custom date picker for transactions
+- Advanced filtering options
+- Progress bar visualizations
+- Custom pagination
 
 ## 📈 Analytics Dashboard
 
-Detailed financial analytics
-Visual reports and insights
-Transaction history
-Trend analysis
+- Detailed financial analytics
+- Visual reports and insights
+- Transaction history
+- Trend analysis
 
 ## 🔐 User Authentication
 
-Secure login and registration
-Protected routes
-Local storage for quick login
-JWT authentication
+- Secure login and registration
+- Protected routes
+- Local storage for quick login
+- JWT authentication
 
 ## 🛠️ Technology Stack
 
-Frontend: React.js, Bootstrap, Ant Design
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT
-Styling: CSS3, Bootstrap
+- Frontend: React.js, Bootstrap, Ant Design
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT
+- Styling: CSS3, Bootstrap
 
-🚀 Getting Started
-## 📋 Prerequisites
+## 🚀 Getting Started
+📋 Prerequisites
 
-Node.js (v14 or higher)
-MongoDB
-npm/yarn package manager
+- Node.js (v14 or higher)
+- MongoDB
+- npm/yarn package manager
 
 ## 📥 Installation Steps
 ```
@@ -138,12 +138,19 @@ DELETE /api/transactions/:id # Delete transaction
 ## 🤝 Contributing
 We welcome contributions! Please see our contributing guidelines for more details.
 
+## Screenshots
+
+![Screenshot 2024-12-25 221829](https://github.com/user-attachments/assets/cdace21b-b2cc-4092-9185-7cd5262e7a74)
+![Screenshot 2024-12-25 221852](https://github.com/user-attachments/assets/9f74065a-6819-411e-bf54-752361262ac0)
+![Screenshot 2024-12-25 221907](https://github.com/user-attachments/assets/4a1ca028-9c1d-4fd2-91b6-f72c3c490dbc)
+
+
 ## 🙏 Acknowledgements
 
-MongoDB Team
-React.js Community
-Ant Design Team
-Bootstrap Team
+- MongoDB Team
+- React.js Community
+- Ant Design Team
+- Bootstrap Team
 
 
 Take Control of Your Finances
