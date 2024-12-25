@@ -39,7 +39,7 @@ MongoDB
 npm/yarn package manager
 
 ## 📥 Installation Steps
-
+```
 Clone the Repository
 bashCopygit clone https://github.com/sins6c/Income_Expense_tracker.git
 cd income-expense-tracker
@@ -71,6 +71,7 @@ npm start
 cd client
 npm start
 
+```
 
 ## 📁 Project Structure
 ```
