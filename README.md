@@ -41,7 +41,7 @@ npm/yarn package manager
 ## 📥 Installation Steps
 
 Clone the Repository
-bashCopygit clone [your-repository-url]
+bashCopygit clone https://github.com/sins6c/Income_Expense_tracker.git
 cd income-expense-tracker
 
 Install Backend Dependencies
